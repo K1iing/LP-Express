@@ -200,8 +200,9 @@
 .section-empresa {
     display: flex;
     align-items: center;
-    background-size: cover;
     padding: 20px;
+    background-image: url(./assets/wallpaper.png);
+    background-position: 10%;
 }
 
 
